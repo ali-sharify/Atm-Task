@@ -37,7 +37,6 @@ public class Account {
     public String toString() {
         return "Account{" +
                 "accountNumber='" + accountNumber + '\'' +
-                ", pinHash='" + pinHash + '\'' +
                 ", balance=" + balance +
                 '}';
     }
